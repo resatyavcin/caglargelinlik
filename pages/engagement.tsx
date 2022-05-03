@@ -45,9 +45,8 @@ function Engagement() {
 
       <Row>
         <Col lg={6} style={{ marginBottom: 10 }}>
-          {" "}
           <Image
-            alt=""
+            alt="sultanbeyli gelinlik modelleri"
             preview={{ visible: false }}
             width={300}
             src={"/assets/img/" + "engagement.1.1.jpeg"}
@@ -58,9 +57,8 @@ function Engagement() {
           />
         </Col>
         <Col lg={6} style={{ marginBottom: 10 }}>
-          {" "}
           <Image
-            alt=""
+            alt="sultanbeyli"
             preview={{ visible: false }}
             width={300}
             src={"/assets/img/" + "engagement.2.1.jpeg"}
@@ -73,9 +71,8 @@ function Engagement() {
       </Row>
       <Row>
         <Col lg={6} style={{ marginBottom: 10 }}>
-          {" "}
           <Image
-            alt=""
+            alt="en iyi gelinlik"
             preview={{ visible: false }}
             width={300}
             src={"/assets/img/" + "engagement.3.1.jpeg"}
@@ -87,9 +84,8 @@ function Engagement() {
         </Col>
 
         <Col lg={6} style={{ marginBottom: 10 }}>
-          {" "}
           <Image
-            alt=""
+            alt="caglar gelinlik"
             preview={{ visible: false }}
             width={300}
             src={"/assets/img/" + "engagement.4.3.jpeg"}
@@ -100,9 +96,8 @@ function Engagement() {
           />
         </Col>
         <Col lg={6} style={{ marginBottom: 10 }}>
-          {" "}
           <Image
-            alt=""
+            alt="caglar_gelinlik"
             preview={{ visible: false }}
             width={300}
             src={"/assets/img/" + "engagement.5.1.jpeg"}
