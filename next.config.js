@@ -4,6 +4,15 @@ const nextConfig = {
   env: {
     PUBLIC_URL: "/public/assets/img",
   },
+  async redirects() {
+    return [
+      {
+        source: "/bride",
+        destination: "/",
+        permanent: true,
+      },
+    ];
+  },
 };
 
 module.exports = nextConfig;

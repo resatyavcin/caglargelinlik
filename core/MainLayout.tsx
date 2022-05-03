@@ -12,10 +12,10 @@ function MainLayout(props: any) {
     <Layout>
       <Header style={{ color: "white" }}>
         <Menu mode="horizontal" theme={"dark"}>
-          <Menu.Item onClick={() => router.push("/bride")}>
+          <Menu.Item onClick={() => router.push("/")}>
             Çağlar Gelinlik
           </Menu.Item>
-          <Menu.Item onClick={() => router.push("/bride")}>Gelinlik</Menu.Item>
+          <Menu.Item onClick={() => router.push("/")}>Gelinlik</Menu.Item>
           <Menu.Item onClick={() => router.push("/engagement")}>
             Nişanlık
           </Menu.Item>
